@@ -41,7 +41,7 @@
     Atualmente faço o curso do <b>Filipe Deschamps</b>, o <a href="https://curso.dev/">curso.dev</a> e também estou cursando a graduação de analise e desenvolvimento de sistemas.
   </p>
 
-  <p>Minha experiência profissonal relacionada a TI se trata de pequenos projetos como freenlancer, fazendo o layout de sites, landing pages e correções de problemas</p>
+  <p>Minha experiência profissonal relacionada a TI se trata de pequenos projetos como freenlancer, fazendo o layout de sites, landing pages e correções de problemas.</p>
 
   <p>O meu próximo objetivo é conseguir um estágio como desenvolvedor.</p>
 </details>
