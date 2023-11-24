@@ -51,7 +51,8 @@
 <p>Veja meus principais repositórios!</p>
 
 <ul>
-    <li>Aplicação de agendamentos: <a href="https://github.com/FernandoRhenan/supermarket-scheduling-api">API</a> e <a href="https://github.com/FernandoRhenan/supermarket-schedule-front">Interface de usuário</a></li>
+    <li>Aplicação de agendamentos: <a href="https://github.com/FernandoRhenan/supermarket-scheduling-api">API</a> e <a href="https://github.com/FernandoRhenan/supermarket-schedule-front">Interface de usuário</a</li>
+    <li>Comunidade de criptoativos: <a href="https://github.com/FernandoRhenan/totalcripto">Totalcripto</a></li>
 </ul>
 
 <hr/>
