@@ -48,6 +48,14 @@
 
 <hr/>
 
+<p>Veja meus principais repositórios!</p>
+
+<ul>
+    <li>Aplicação de agendamentos: <a href="https://github.com/FernandoRhenan/supermarket-scheduling-api">API</a> e <a href="https://github.com/FernandoRhenan/supermarket-schedule-front">Interface de usuário</a></li>
+</ul>
+
+<hr/>
+
 Tecnologias e ferramentas que utilizo ou já utilizei...
 
 [![Tecnologias que utilizo](https://skillicons.dev/icons?i=js,nodejs,express,jest,html,css,react,ts,postgres,mysql,prisma,docker,git,github,postman)](https://skillicons.dev)
