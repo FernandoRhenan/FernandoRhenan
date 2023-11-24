@@ -1,10 +1,10 @@
 <h1>Olá, me chamo Fernando!</h1>
 
-📖 - Estudo desenvolvimento de software
+📖 - Estudo desenvolvimento de software.
 <br/>
-🤝🏼 - Faço pequenos projetos como freelancer
+🤝🏼 - Faço pequenos projetos como freelancer.
 <br/>
-🎯 - Tenho o objetivo de ser contratado para um estágio de desenvolvedor
+🎯 - Tenho o objetivo de ser contratado para um estágio de desenvolvedor.
 <br/>
 <hr/>
 
@@ -24,7 +24,7 @@
   <p>Eu definitivamente tenho interesse e gosto de programação!</p>
   
   <p>Também tenho interesses em algumas áreas da economia, por consequencia (ou não), a parte de criptomoedas e defi.</p>
-  <p>E apesar de parecer até agora que eu sou uma pessoa 100% fissurada por telas, eu também tenho um lado oposto a isso mas que não se conflita. Pois gosto muito de exercícios físicos de forma geral e também sou muito ligado a ambientes naturais. Tenho a certeza de que o caminho do equilíbrio é sempre o melhor, em todas as áreas da vida.</p>
+  <p>Além das telas e bits, eu também tenho um lado oposto a isso mas que não se conflita. Pois gosto muito de exercícios físicos de forma geral e também sou muito ligado a ambientes naturais. Tenho a certeza de que o caminho do equilíbrio é sempre o melhor, em todas as áreas da vida.</p>
 
   <p>Não poderia deixar de mencionar que gosto de ler alguns livros que servem para desenvolvimento pessoal e coisas que agregam em vivências do mundo real.</p>
 </details>
