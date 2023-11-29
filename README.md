@@ -61,6 +61,10 @@ Tecnologias e ferramentas que utilizo ou já utilizei...
 
 [![Tecnologias que utilizo](https://skillicons.dev/icons?i=js,nodejs,express,jest,html,css,react,ts,postgres,mysql,prisma,docker,git,github,postman)](https://skillicons.dev)
 
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorhenan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
