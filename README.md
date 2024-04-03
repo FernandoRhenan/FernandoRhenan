@@ -10,7 +10,6 @@
 <hr/>
 
 
-<hr/>
 
 <p>Veja meus principais repositórios!</p>
 
