@@ -16,8 +16,8 @@ Estudo programação desde Janeiro de 2022
 <p>Meus principais repositórios!</p>
 
 <ul>
-    <li>Editor de imagens na Web: <a href="https://github.com/FernandoRhenan/templataexpress-api">Api</a></li>
-    <li>Editor de imagens na Web: <a href="https://github.com/FernandoRhenan/templataexpress-api">Front</a></li>
+    <li>Editor de imagens na Web: <a href="https://github.com/FernandoRhenan/TemplataExpress-Api">Api</a></li>
+    <li>Editor de imagens na Web: <a href="https://github.com/FernandoRhenan/TemplataExpress-Front">Front</a></li>
 </ul>
 
 
