@@ -1,6 +1,10 @@
 <h1>Olá, me chamo Fernando!</h1>
 
-📖 - Estudo desenvolvimento de software.
+- Sou estudante de ADS e freelancer.
+- Trabalho com fullstack development.
+
+Estudo programação desde Janeiro de 2022
+  
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rhenan-weber-445ba4246/)
@@ -11,7 +15,8 @@
 <p>Meus principais repositórios!</p>
 
 <ul>
-    <li>Comunidade de criptoativos: <a href="https://github.com/FernandoRhenan/totalcripto">Totalcripto</a></li>
+    <li>Editor de imagens na Web: <a href="https://github.com/FernandoRhenan/templataexpress-api">Api</a></li>
+    <li>Editor de imagens na Web: <a href="https://github.com/FernandoRhenan/templataexpress-api">Front</a></li>
 </ul>
 
 
