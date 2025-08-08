@@ -13,14 +13,6 @@ Estudo programação desde Janeiro de 2022
 
 <hr/>
 
-<p>Meus principais repositórios!</p>
-
-<ul>
-    <li>Editor de imagens na Web: <a href="https://github.com/FernandoRhenan/TemplateExpress-Api">Api</a></li>
-    <li>Editor de imagens na Web: <a href="https://github.com/FernandoRhenan/TemplateExpress-Front">Front</a></li>
-</ul>
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorhenan&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
