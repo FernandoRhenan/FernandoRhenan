@@ -1,10 +1,8 @@
 <h1>Olá, me chamo Fernando!</h1>
 
-- Sou estudante de ADS e freelancer.
-- Trabalho com fullstack development.
-
-Estudo programação desde Janeiro de 2022
-  
+- Sou um indie hacker.
+- Formado em ADS.
+ 
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rhenan-weber-445ba4246/)
